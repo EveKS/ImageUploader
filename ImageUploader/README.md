@@ -1,7 +1,7 @@
 # Run
 
-npm run buid\
-dotnet build\
+npm run build\
+dotnet build
 
 dotnet watch run\
 npm run build
